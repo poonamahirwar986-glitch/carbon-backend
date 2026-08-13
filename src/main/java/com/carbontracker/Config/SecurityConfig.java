@@ -74,12 +74,6 @@ public class SecurityConfig {
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration configuration = new CorsConfiguration();
 
-        
-       configuration.setAllowedOrigins(
-        List.of("https://ai-carbon-footprint-monitoring-system-x2jr.onrender.com")
-);
-
-
         configuration.setAllowedOrigins(
                 List.of("https://ai-carbon-footprint-monitoring-system-x2jr.onrender.com")
         );
