@@ -67,8 +67,8 @@ recommendations.
 
 ### Frontend
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Chart.js
 
@@ -133,7 +133,9 @@ recommendations.
                    └───────────┘ └───────────────┘
 
 📂 Project Structure
+
 Frontend
+
 frontend/
 │
 ├── AIAdvisor.html
