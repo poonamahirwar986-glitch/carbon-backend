@@ -77,7 +77,7 @@ public class SecurityConfig {
         configuration.setAllowedOrigins(
                 List.of("https://ai-carbon-footprint-monitoring-system-x2jr.onrender.com")
         );
-  (Update security configuration)
+ 
         configuration.setAllowedMethods(
                 List.of("GET", "POST", "PUT", "DELETE", "OPTIONS")
         );
